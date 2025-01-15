@@ -11,6 +11,7 @@ import React from 'react';
           <Helmet>
             <title>Harry Potter Bücher</title>
             <meta name="description" content="Entdecken Sie die Welt der Harry Potter Bücher. Informationen zu Erscheinungsdaten, Wert, Verkaufszahlen und mehr." />
+             <meta name="google-site-verification" content="WSm2IteZsiS37gqSD2wl5_FhF_yYIfVrZTn6IaGXYvA" />
           </Helmet>
           <header>
             <h1>Harry Potter Bücher</h1>
