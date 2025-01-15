@@ -21,12 +21,13 @@ import React from 'react';
               Viele Fans lassen ihrer Kreativität freien Lauf und zeichnen ihre Lieblingsszenen und Charaktere aus den Harry Potter Büchern.
               Es gibt zahlreiche Online-Ressourcen, die Anleitungen und Inspiration bieten.
             </p>
-            <p>
+             <p>
               <strong>Tipps zum Zeichnen:</strong>
               <ul>
                 <li>Beginnen Sie mit einfachen Skizzen und arbeiten Sie sich zu detaillierteren Zeichnungen vor.</li>
                 <li>Nutzen Sie Referenzbilder aus den Büchern oder Filmen.</li>
-                <li>Experimentieren Sie mit verschiedenen Zeichenstilen und Techniken.</li>
+                 <li>Experimentieren Sie mit verschiedenen Zeichenstilen und Techniken.</li>
+                <li>Teilen Sie Ihre Kunstwerke mit anderen Fans in Online-Communities.</li>
               </ul>
             </p>
           </section>
@@ -57,10 +58,11 @@ import React from 'react';
             <p>
               <strong>Faktoren, die den Wert beeinflussen:</strong>
               <ul>
-                <li><strong>Auflage:</strong> Erstausgaben sind am wertvollsten.</li>
-                <li><strong>Zustand:</strong> Bücher in sehr gutem Zustand erzielen höhere Preise.</li>
-                <li><strong>Signatur:</strong> Signierte Exemplare von J.K. Rowling sind sehr begehrt.</li>
-                <li><strong>Seltene Ausgaben:</strong> Sonderausgaben oder limitierte Auflagen sind besonders wertvoll.</li>
+                <li><strong>Auflage:</strong> Erstausgaben sind am wertvollsten, besonders die britischen Erstausgaben.</li>
+                <li><strong>Zustand:</strong> Bücher in sehr gutem Zustand (ohne Knicke, Risse oder Verfärbungen) erzielen höhere Preise.</li>
+                <li><strong>Signatur:</strong> Signierte Exemplare von J.K. Rowling sind sehr begehrt und können einen hohen Sammlerwert haben.</li>
+                <li><strong>Seltene Ausgaben:</strong> Sonderausgaben, limitierte Auflagen oder Ausgaben mit Fehlern (z.B. Druckfehler) sind besonders wertvoll.</li>
+                <li><strong>Region:</strong> Die Herkunftsregion der Bücher kann den Wert beeinflussen.</li>
               </ul>
             </p>
           </section>
@@ -74,9 +76,10 @@ import React from 'react';
             <p>
               <strong>Hauptunterschiede:</strong>
               <ul>
-                <li><strong>Detailliertheit:</strong> Die Bücher enthalten mehr Details und Hintergrundinformationen.</li>
-                <li><strong>Charakterentwicklung:</strong> Die Charaktere sind in den Büchern oft komplexer dargestellt.</li>
-                <li><strong>Handlungsstränge:</strong> Einige Handlungsstränge wurden in den Filmen weggelassen oder verändert.</li>
+                <li><strong>Detailliertheit:</strong> Die Bücher enthalten mehr Details, Hintergrundinformationen und Nebenhandlungen, die in den Filmen oft weggelassen wurden.</li>
+                <li><strong>Charakterentwicklung:</strong> Die Charaktere sind in den Büchern oft komplexer und vielschichtiger dargestellt, mit mehr Einblicken in ihre Gedanken und Gefühle.</li>
+                <li><strong>Handlungsstränge:</strong> Einige Handlungsstränge und wichtige Szenen wurden in den Filmen weggelassen oder verändert, was zu einer anderen Interpretation der Geschichte führen kann.</li>
+                <li><strong>Atmosphäre:</strong> Die Bücher vermitteln oft eine tiefere und magischere Atmosphäre, die in den Filmen nicht immer vollständig eingefangen werden konnte.</li>
               </ul>
             </p>
           </section>
@@ -85,7 +88,7 @@ import React from 'react';
             <h2>Verkaufszahlen und Umsatz der Harry Potter Bücher</h2>
             <p>
               Die Harry Potter Bücher haben sich weltweit über 500 Millionen Mal verkauft und gehören damit zu den meistverkauften Buchreihen der Welt.
-              Der Umsatz ist enorm und hat J.K. Rowling zu einer der erfolgreichsten Autorinnen gemacht.
+              Der Umsatz ist enorm und hat J.K. Rowling zu einer der erfolgreichsten Autorinnen gemacht. Die Bücher haben nicht nur die Literaturwelt, sondern auch die Filmindustrie und den Merchandising-Markt revolutioniert.
             </p>
           </section>
     
@@ -93,7 +96,7 @@ import React from 'react';
             <h2>Das Harry Potter Universum: Begleitbücher</h2>
             <p>
               Neben den Hauptbüchern gibt es auch Begleitbücher, die das Harry Potter Universum erweitern.
-              Dazu gehören "Phantastische Tierwesen und wo sie zu finden sind" und "Quidditch im Wandel der Zeiten".
+              Dazu gehören "Phantastische Tierwesen und wo sie zu finden sind", "Quidditch im Wandel der Zeiten" und "Die Märchen von Beedle dem Barden". Diese Bücher bieten zusätzliche Einblicke in die magische Welt und ihre Geschichte.
             </p>
           </section>
     
@@ -101,7 +104,7 @@ import React from 'react';
             <h2>Harry Potter Bücher bei Thalia</h2>
             <p>
               Die Harry Potter Bücher sind in vielen Buchhandlungen erhältlich, darunter auch Thalia.
-              Sie können die Bücher sowohl online als auch in den Filialen kaufen.
+              Sie können die Bücher sowohl online als auch in den Filialen kaufen. Thalia bietet oft verschiedene Ausgaben und Sets der Bücher an.
             </p>
           </section>
     
@@ -143,7 +146,7 @@ import React from 'react';
             <h2>Harry Potter Bücher in anderen Sprachen</h2>
             <p>
               Die Harry Potter Bücher wurden in viele Sprachen übersetzt, darunter auch Russisch.
-              Die Übersetzungen ermöglichen es Fans weltweit, die Geschichten zu genießen.
+              Die Übersetzungen ermöglichen es Fans weltweit, die Geschichten zu genießen. Die Bücher sind ein globales Phänomen und haben Leser auf der ganzen Welt begeistert.
             </p>
           </section>
     
@@ -151,7 +154,7 @@ import React from 'react';
             <h2>Phantastische Tierwesen Bücher</h2>
             <p>
               "Phantastische Tierwesen und wo sie zu finden sind" ist ein Begleitbuch zur Harry Potter Reihe und wurde auch verfilmt.
-              Es bietet einen Einblick in die magische Tierwelt des Harry Potter Universums.
+              Es bietet einen Einblick in die magische Tierwelt des Harry Potter Universums. Das Buch ist in Form eines fiktiven Lehrbuchs geschrieben und enthält viele interessante Informationen über magische Kreaturen.
             </p>
           </section>
     
@@ -159,7 +162,7 @@ import React from 'react';
             <h2>Nachfolger der Harry Potter Bücher</h2>
             <p>
               Es gibt keine direkten Nachfolger der Harry Potter Hauptreihe, aber das Theaterstück "Harry Potter und das verwunschene Kind"
-              setzt die Geschichte fort und bietet einen Einblick in das Leben der Charaktere nach den Ereignissen der Hauptreihe.
+              setzt die Geschichte fort und bietet einen Einblick in das Leben der Charaktere nach den Ereignissen der Hauptreihe. Das Theaterstück ist in Form eines Drehbuchs veröffentlicht und spielt 19 Jahre nach den Ereignissen von "Harry Potter und die Heiligtümer des Todes".
             </p>
           </section>
         </div>
